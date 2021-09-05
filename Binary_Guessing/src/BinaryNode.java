@@ -2,7 +2,7 @@
 /**
  * A class that represents nodes in a binary tree.
  * 
- * @author Frank M. Carrano
+ * @author gbadebo
  * @version 2.0
  */
 class BinaryNode<T> implements BinaryNodeInterface<T>, java.io.Serializable
