@@ -2,7 +2,7 @@
 /**
  * An interface for basic operations of a tree.
  * 
- * @author Frank M. Carrano
+ * @author gbadebo
  * @version 2.0
  */
 public interface TreeInterface<T>
