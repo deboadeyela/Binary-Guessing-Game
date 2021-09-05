@@ -1,7 +1,7 @@
 /**
  * An interface for a node in a binary tree.
  * 
- * @author Frank M. Carrano
+ * @author gbadebo
  * @version 2.0
  */
 interface BinaryNodeInterface<T>
@@ -15,18 +15,18 @@ interface BinaryNodeInterface<T>
   public void setData(T newData);
   
   /** Task: Retrieves the left child of the node.
-   *  @return the node that is this nodeﾕs left child */
+   *  @return the node that is this nodeﾃ不 left child */
   public BinaryNodeInterface<T> getLeftChild();
   
   /** Task: Retrieves the right child of the node.
-   *  @return the node that is this nodeﾕs right child */
+   *  @return the node that is this nodeﾃ不 right child */
   public BinaryNodeInterface<T> getRightChild();
   
-  /** Task: Sets the nodeﾕs left child to a given node.
+  /** Task: Sets the nodeﾃ不 left child to a given node.
    *  @param leftChild  a node that will be the left child */
   public void setLeftChild(BinaryNodeInterface<T> leftChild);
   
-  /** Task: Sets the nodeﾕs right child to a given node.
+  /** Task: Sets the nodeﾃ不 right child to a given node.
    *  @param rightChild  a node that will be the right child */
   public void setRightChild(BinaryNodeInterface<T> rightChild);
   
