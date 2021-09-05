@@ -1,7 +1,7 @@
 /**
  * A class that implements the ADT binary tree.
  * 
- * @author Frank M. Carrano
+ * @author gbadebo
  * @version 2.0
  */
 public class BinaryTree<T> implements BinaryTreeInterface<T>, java.io.Serializable
